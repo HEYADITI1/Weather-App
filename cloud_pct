@@ -1,0 +1,10 @@
+cloud_pct=resonse.cloud_pct
+feels_like=resonse.feels_like
+humidity=resonse.humidity
+max_temp=resonse.max_temp
+min_temp=resonse.min_temp
+sunrise=resonse.sunrise
+sunset=resonse.sunset
+temp=resonse.temp
+wind_degrees=resonse.wind_degrees
+wind_speed=resonse.wind_speed
