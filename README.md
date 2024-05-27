@@ -9,7 +9,7 @@ The Weather App is a simple web application built using HTML, CSS, and JavaScrip
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [API Used](#api-used)
-- [Screenshots](#Screenshots)
+- [Screenshot](#Screenshot)
 - [Contributing](#contributing)
 
 ## Features
@@ -40,9 +40,9 @@ There is no installation required for this web application. Simply open the `ind
 
 The Weather App uses the Rapid API to fetch weather information. You can find more information about the API and its usage [here](#).
 
-## Screenshots
+## Screenshot
 
-1. 
+![Screenshot (113)](https://github.com/HEYADITI1/Weather-App/assets/115147637/ea8576b4-eb4a-42eb-8703-ed81e123c777)
 
 ## Contributing
 
