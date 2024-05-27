@@ -38,7 +38,7 @@ There is no installation required for this web application. Simply open the `ind
 
 ## API Used
 
-The Weather App uses the Rapid API to fetch weather information. You can find more information about the API and its usage [weather-by-api-ninjas.p.rapidapi.com](#).
+The Weather App uses the Rapid API to fetch weather information. You can find more information about the API and its usage here. [weather-by-api-ninjas.p.rapidapi.com](#).
 
 ## Screenshot
 
